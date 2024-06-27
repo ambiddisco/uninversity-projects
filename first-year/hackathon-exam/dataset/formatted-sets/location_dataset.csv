@@ -1,0 +1,6 @@
+location_id,latitude,longitude,elevation,utc_offset_seconds,timezone,timezone_abbreviation
+0,46.010544,8.428572,995,0,GMT,GMT
+1,38.980667,16.520548,750,0,GMT,GMT
+2,37.57469,23.4,0,0,GMT,GMT
+3,55.641476,12.596349,10,0,GMT,GMT
+4,56.695957,25.230125,90,0,GMT,GMT
